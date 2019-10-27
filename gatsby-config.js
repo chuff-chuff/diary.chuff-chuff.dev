@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `chuff-chuff's diary`,
+    title: `chuff-chuff's monologue`,
     author: `chuff-chuff`,
-    description: `chuff-chuff's diary.`,
-    siteUrl: `https://diary.chuff-chuff.dev/`,
+    description: `chuff-chuff's monologue.`,
+    siteUrl: `https://monologue.chuff-chuff.dev/`,
     social: {
       twitter: `chuff_chuff09`,
     },
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `chuff-chuff's diary`,
-        short_name: `chuff-chuff's diary`,
+        name: `chuff-chuff's monologue`,
+        short_name: `chuff-chuff's monologue`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
